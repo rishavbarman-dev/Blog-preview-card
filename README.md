@@ -1,3 +1,32 @@
-# Blog-preview-card
+# Frontend Mentor - Blog preview card solution
 
-This HTML & CSS-only challenge is a perfect project for beginners getting up to speed with HTML and CSS fundamentals, like HTML structure and the box model.
+This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+
+## Table of contents
+
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Built with](#built-with)
+## Overview
+
+### The challenge
+
+Users should be able to:
+
+- See hover and focus states for all interactive elements on the page
+
+### Screenshot
+
+![image](https://github.com/user-attachments/assets/4c33afb3-fe8e-45df-997b-6cb275a3dde5)
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+
+
+
+
+
